@@ -1,0 +1,23 @@
+{
+  "name": "tempoglass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisgameprogramming/TempoGlass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisgameprogramming/TempoGlass/issues"
+  },
+  "homepage": "https://github.com/fisgameprogramming/TempoGlass#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^3.6.4"
+  }
+}
